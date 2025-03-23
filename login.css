@@ -1,0 +1,346 @@
+.login-page-1,
+.login-page-1 * {
+  box-sizing: border-box;
+}
+.login-page-1 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.rectangle-5 {
+  background: #d9d9d9;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 586px;
+  height: 573px;
+  position: absolute;
+  left: 414px;
+  top: 381px;
+}
+
+.statistics {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 1103px;
+  top: 79px;
+}
+
+.merchandise {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 868px;
+  top: 79px;
+}
+
+.registration {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 630px;
+  top: 79px;
+}
+.registration2 {
+  color: #000000;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 414px;
+  top: 278px;
+  width: 586px;
+  height: 103px;
+}
+.rectangle-3 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 27px;
+}
+.rectangle-4 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 64px;
+}
+.welcome-guest {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 38px;
+  width: 187px;
+  height: 37px;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 68px;
+  width: 187px;
+  height: 37px;
+}
+.images-1 {
+  width: 220px;
+  height: 217px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 220/217;
+}
+.umd-club-rugby-membership-home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 64px;
+  width: 402px;
+  height: 160px;
+}
+.registration3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 400px;
+  top: 275px;
+  width: 240px;
+  height: 40px;
+}
+.registered {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 275px;
+  width: 400px;
+  height: 45px;
+}
+.log-in {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 715px;
+  top: 404px;
+  width: 212px;
+  height: 45px;
+}
+
+.password {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 400px;
+  top: 480px;
+}
+.fname {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 400px;
+  top: 320px;
+}
+.password2 {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 400px;
+  top: 520px;
+}
+.email {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 400px;
+  top: 400px;
+}
+.phonenum {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 400px;
+  top: 440px;
+}
+.lname {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 400px;
+  top: 360px;
+}
+.password3 {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 725px;
+  top: 360px;
+}
+.email2 {
+  color: #333333;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 20%;
+  left: 725px;
+  top: 320px;
+}
+.rectangle-12 {
+  background: #ffd520;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 120px;
+  height: 47px;
+  position: absolute;
+  left: 496px;
+  top: 810px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.register,
+.register * {
+  box-sizing: border-box;
+}
+.register {
+  color: #000000;
+  background-color: #B6162B;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 160px;
+  height: 35px;
+  left: 400px;
+  top: 570px;
+  border-radius: 25px;
+}
+
+.login,
+.login * {
+  box-sizing: border-box;
+}
+.login {
+  color: #000000;
+  background-color: #B6162B;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 170px;
+  height: 33px;
+  left:725px;
+  top: 400px;
+  border-radius: 25px;
+}
+
+.login2 {
+  color: #000000;
+  background-color: #E6C117;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  width: 170px;
+  height: 33px;
+  left: 725px;
+  top: 450px;
+  border-radius: 25px;
+}

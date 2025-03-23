@@ -1,0 +1,554 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 1550px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-13 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1133px;
+  height: 289px;
+  position: absolute;
+  left: 140px;
+  top: 1221px;
+}
+.rectangle-9 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1133px;
+  height: 289px;
+  position: absolute;
+  left: 140px;
+  top: 915px;
+}
+.rectangle-6 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1133px;
+  height: 289px;
+  position: absolute;
+  left: 140px;
+  top: 609px;
+}
+.rectangle-7 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1133px;
+  height: 289px;
+  position: absolute;
+  left: 140px;
+  top: 310px;
+}
+.registration {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 630px;
+  top: 88px;
+}
+.merchandise {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 868px;
+  top: 88px;
+}
+.statistics {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 1103px;
+  top: 88px;
+}
+.rectangle-3 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 36px;
+}
+.rectangle-4 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 73px;
+}
+.welcome-admin {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 47px;
+  width: 187px;
+  height: 37px;
+}
+.sign-out {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 77px;
+  width: 187px;
+  height: 37px;
+}
+.images-1 {
+  width: 220px;
+  height: 217px;
+  position: absolute;
+  left: 0px;
+  top: 9px;
+  object-fit: cover;
+  aspect-ratio: 220/217;
+}
+.image-2 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 44px;
+  top: 226px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 120px;
+  top: 226px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.umd-club-rugby-statistics-and-schedule {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 73px;
+  width: 527px;
+  height: 178px;
+}
+.maryland {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 232px;
+  top: 369px;
+  width: 229px;
+  height: 70px;
+}
+.testudo-example-color-1 {
+  width: 80px;
+  height: 74px;
+  position: absolute;
+  left: 433px;
+  top: 365px;
+  object-fit: cover;
+  aspect-ratio: 80/74;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 537px;
+  top: 350px;
+  width: 129px;
+  height: 62px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 824px;
+  top: 353px;
+  width: 106px;
+  height: 69px;
+}
+.images-2 {
+  width: 77.07px;
+  height: 95px;
+  position: absolute;
+  left: 945px;
+  top: 343px;
+  object-fit: cover;
+  aspect-ratio: 77.07/95;
+}
+.navy {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1071px;
+  top: 369px;
+  width: 110px;
+  height: 48px;
+}
+.maryland2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 232px;
+  top: 681px;
+  width: 229px;
+  height: 70px;
+}
+.testudo-example-color-2 {
+  width: 80px;
+  height: 74px;
+  position: absolute;
+  left: 433px;
+  top: 677px;
+  object-fit: cover;
+  aspect-ratio: 80/74;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 537px;
+  top: 662px;
+  width: 129px;
+  height: 62px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 824px;
+  top: 662px;
+  width: 106px;
+  height: 69px;
+}
+.delaware {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1063px;
+  top: 682px;
+  width: 178px;
+  height: 43px;
+}
+.download-1 {
+  width: 123px;
+  height: 69px;
+  position: absolute;
+  left: 930px;
+  top: 677px;
+  object-fit: cover;
+  aspect-ratio: 123/69;
+}
+.maryland3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 232px;
+  top: 987px;
+  width: 229px;
+  height: 70px;
+}
+.testudo-example-color-3 {
+  width: 85px;
+  height: 78px;
+  position: absolute;
+  left: 428px;
+  top: 979px;
+  object-fit: cover;
+  aspect-ratio: 85/78;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 537px;
+  top: 968px;
+  width: 129px;
+  height: 62px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 824px;
+  top: 979px;
+  width: 129px;
+  height: 62px;
+}
+.jmu {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1063px;
+  top: 988px;
+  width: 178px;
+  height: 43px;
+}
+.download-2 {
+  width: 87px;
+  height: 81px;
+  position: absolute;
+  left: 936px;
+  top: 979px;
+  object-fit: cover;
+  aspect-ratio: 87/81;
+}
+.maryland4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 232px;
+  top: 1293px;
+  width: 229px;
+  height: 70px;
+}
+.testudo-example-color-5 {
+  width: 79px;
+  height: 73px;
+  position: absolute;
+  left: 434px;
+  top: 1293px;
+  object-fit: cover;
+  aspect-ratio: 79/73;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 548px;
+  top: 1274px;
+  width: 129px;
+  height: 62px;
+}
+.div8 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 824px;
+  top: 1277px;
+  width: 106px;
+  height: 69px;
+}
+.virginia {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1052px;
+  top: 1293px;
+  width: 178px;
+  height: 43px;
+}
+._200617131110-02-uva-reworked-logo-0616-1 {
+  width: 104px;
+  height: 59px;
+  position: absolute;
+  left: 930px;
+  top: 1297px;
+  object-fit: cover;
+  aspect-ratio: 104/59;
+}
+.september-8 {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 630px;
+  top: 317px;
+  width: 220px;
+  height: 38px;
+}
+.october-15 {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 657px;
+  top: 1236px;
+  width: 220px;
+  height: 38px;
+}
+.october-8 {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 657px;
+  top: 930px;
+  width: 220px;
+  height: 38px;
+}
+.september-24 {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 630px;
+  top: 624px;
+  width: 220px;
+  height: 38px;
+}
+.rectangle-14 {
+  width: 152px;
+  height: 79px;
+  position: absolute;
+  left: 1288px;
+  top: 1459px;
+}
+.rectangle-16 {
+  background: #ffffff;
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  left: 225px;
+  top: 455px;
+}
+.rectangle-17 {
+  background: #ffffff;
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  left: 220px;
+  top: 775px;
+}
+.rectangle-18 {
+  background: #ffffff;
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  left: 220px;
+  top: 1073px;
+}
+.rectangle-19 {
+  background: #ffffff;
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  left: 225px;
+  top: 1379px;
+}
+
+textarea {
+  resize: none;
+}
+
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-62 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  background: var(--umd-red, #e21833);
+  border-radius: 90px;
+  width: 128.93px;
+  height: 48.93px;
+  position: absolute;
+  left: 1300px;
+  top: 1489px;
+}
+
+input[type="number"] {
+  border-radius: 2px;
+  border-width: 2px;
+  border-color: black;
+  height: 2rem;
+  width: 6rem;
+  size: 2rem;
+}

@@ -1,0 +1,1110 @@
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #ffffff;
+  height: 1864px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1271px;
+  height: 673px;
+  position: absolute;
+  left: 84px;
+  top: 380px;
+}
+.rectangle-27 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1271px;
+  height: 673px;
+  position: absolute;
+  left: 84px;
+  top: 1144px;
+}
+.registration {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 630px;
+  top: 88px;
+}
+.merchandise {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 868px;
+  top: 88px;
+}
+.user {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 393px;
+}
+.member-1 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 464px;
+}
+.lebron {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 258px;
+  top: 464px;
+}
+.jahmes {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 483px;
+  top: 464px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 464px;
+}
+.jahmes-terpmail-umd-edu {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 464px;
+}
+.member-15 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 1239px;
+}
+.lebron2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 258px;
+  top: 1239px;
+}
+.jahmes2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 483px;
+  top: 1239px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 1239px;
+}
+.jahmes-terpmail-umd-edu2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 1239px;
+}
+.first-name {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 258px;
+  top: 393px;
+}
+.last-n-ame {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 482px;
+  top: 393px;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 393px;
+}
+.phone-number {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 953px;
+  top: 393px;
+}
+.approval {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 1167px;
+  top: 393px;
+}
+.yes {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1173px;
+  top: 436px;
+  width: 46px;
+  height: 28px;
+}
+.no {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1240px;
+  top: 436px;
+  width: 46px;
+  height: 28px;
+}
+.phone-number2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 953px;
+  top: 1168px;
+}
+.remove {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 1167px;
+  top: 1168px;
+}
+.user2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 1164px;
+}
+.first-name2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 258px;
+  top: 1164px;
+}
+.last-n-ame2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 482px;
+  top: 1164px;
+}
+.email2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 1164px;
+}
+.statistics {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 1103px;
+  top: 88px;
+}
+.rectangle-3 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 36px;
+}
+.rectangle-4 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 73px;
+}
+.welcome-admin {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 47px;
+  width: 187px;
+}
+.sign-out {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 77px;
+  width: 187px;
+  height: 37px;
+}
+.images-1 {
+  width: 220px;
+  height: 217px;
+  position: absolute;
+  left: 0px;
+  top: 9px;
+  object-fit: cover;
+  aspect-ratio: 220/217;
+}
+.image-2 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 44px;
+  top: 226px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 120px;
+  top: 226px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.umd-club-rugby-r-egistration-page {
+  color: var(--background-white, #ffffff);
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 73px;
+  width: 527px;
+  height: 178px;
+}
+.waiting-for-approval {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 530px;
+  top: 300px;
+  width: 748px;
+  height: 93px;
+}
+.approved-list-spring-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 504px;
+  top: 1071px;
+  width: 748px;
+  height: 93px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  color:#ffffff;
+  text-align: center;
+  background: var(--umd-red, #e21833);
+  border-radius: 90px;
+  width: 128.93px;
+  height: 48.93px;
+  position: absolute;
+  left: 1191px;
+  top: 1001px;
+}
+.submit {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 1195.13px;
+  top: 1014.7px;
+  width: 120.17px;
+  height: 21.04px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1167px;
+  top: 464px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1233px;
+  top: 464px;
+}
+.yes2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1165px;
+  top: 1215px;
+  width: 46px;
+  height: 28px;
+}
+.no2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1232px;
+  top: 1215px;
+  width: 46px;
+  height: 28px;
+}
+.rectangle-19 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1159px;
+  top: 1243px;
+}
+.rectangle-20 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1225px;
+  top: 1243px;
+}
+.member-16 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 1299px;
+}
+.lebron3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 258px;
+  top: 1299px;
+}
+.jahmes3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 483px;
+  top: 1299px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 1299px;
+}
+.jahmes-terpmail-umd-edu3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 1299px;
+}
+.yes3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1165px;
+  top: 1275px;
+  width: 46px;
+  height: 28px;
+}
+.no3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1232px;
+  top: 1275px;
+  width: 46px;
+  height: 28px;
+}
+.rectangle-21 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1159px;
+  top: 1303px;
+}
+.rectangle-22 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1225px;
+  top: 1303px;
+}
+.member-17 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 1359px;
+}
+.lebron4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 258px;
+  top: 1359px;
+}
+.jahmes4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 483px;
+  top: 1359px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 1359px;
+}
+.jahmes-terpmail-umd-edu4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 1359px;
+}
+.yes4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1165px;
+  top: 1335px;
+  width: 46px;
+  height: 28px;
+}
+.no4 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1232px;
+  top: 1335px;
+  width: 46px;
+  height: 28px;
+}
+.rectangle-23 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1159px;
+  top: 1363px;
+}
+.rectangle-24 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1225px;
+  top: 1363px;
+}
+.member-18 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 1415px;
+}
+.lebron5 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 258px;
+  top: 1415px;
+}
+.jahmes5 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 483px;
+  top: 1415px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 1415px;
+}
+.jahmes-terpmail-umd-edu5 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 1415px;
+}
+.yes5 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1165px;
+  top: 1391px;
+  width: 46px;
+  height: 28px;
+}
+.no5 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1232px;
+  top: 1391px;
+  width: 46px;
+  height: 28px;
+}
+.rectangle-25 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1159px;
+  top: 1419px;
+}
+.rectangle-26 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1225px;
+  top: 1419px;
+}
+.member-2 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 527px;
+}
+.lebron6 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 258px;
+  top: 527px;
+}
+.jahmes6 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 483px;
+  top: 527px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 527px;
+}
+.jahmes-terpmail-umd-edu6 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 527px;
+}
+.yes6 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1173px;
+  top: 499px;
+  width: 46px;
+  height: 28px;
+}
+.no6 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1240px;
+  top: 499px;
+  width: 46px;
+  height: 28px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1167px;
+  top: 527px;
+}
+.rectangle-12 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1233px;
+  top: 527px;
+}
+.member-3 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 590px;
+}
+.lebron7 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 258px;
+  top: 590px;
+}
+.jahmes7 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 483px;
+  top: 590px;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 590px;
+}
+.jahmes-terpmail-umd-edu7 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 686px;
+  top: 590px;
+}
+.yes7 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1173px;
+  top: 562px;
+  width: 46px;
+  height: 28px;
+}
+.no7 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1240px;
+  top: 562px;
+  width: 46px;
+  height: 28px;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1167px;
+  top: 590px;
+}
+.rectangle-15 {
+  background: #d9d9d9;
+  width: 35px;
+  height: 24px;
+  position: absolute;
+  left: 1233px;
+  top: 590px;
+}
+.pg-1-1 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1099px;
+  top: 968px;
+  width: 104px;
+  height: 82px;
+}
+.image-3 {
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1093px;
+  top: 1009px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-4 {
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1181px;
+  top: 1047px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-62 {
+  color:#ffffff;
+  text-align: center;
+  background: var(--umd-red, #e21833);
+  border-radius: 90px;
+  width: 128.93px;
+  height: 48.93px;
+  position: absolute;
+  left: 1196px;
+  top: 1765px;
+}
+
+.pg-1-12 {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1105px;
+  top: 1735px;
+  width: 104px;
+  height: 82px;
+}
+.image-5 {
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1099px;
+  top: 1776px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-6 {
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 1187px;
+  top: 1814px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}

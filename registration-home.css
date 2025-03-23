@@ -1,0 +1,435 @@
+.registration-home,
+.registration-home * {
+  box-sizing: border-box;
+}
+.registration-home {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  width: 1128px;
+  height: 573px;
+  position: absolute;
+  left: 288px;
+  top: 374px;
+}
+.rectangle-13 {
+  background: #d9d9d9;
+  width: 953px;
+  height: 78px;
+  position: absolute;
+  left: 288px;
+  top: 277px;
+}
+.welcome-to-the-registration-page {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 304px;
+  top: 277px;
+  width: 748px;
+  height: 93px;
+}
+.umd-club-rugby-r-egistration-page {
+  color: #000000;
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 64px;
+  width: 527px;
+  height: 178px;
+}
+.image {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 120px;
+  top: 217px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-2 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 44px;
+  top: 217px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-4 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 64px;
+}
+.rectangle-3 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 27px;
+}
+.sign-out {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 68px;
+  width: 187px;
+  height: 37px;
+}
+.images-1 {
+  width: 220px;
+  height: 217px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 220/217;
+}
+.registration {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 630px;
+  top: 79px;
+}
+.merchandise {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 868px;
+  top: 79px;
+}
+.statistics {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 1103px;
+  top: 79px;
+}
+.welcome-member {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 38px;
+  width: 187px;
+  height: 37px;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 363px;
+  top: 384px;
+  width: 1077px;
+  height: 622px;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span {
+  color: #000000;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span2 {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span3 {
+  color: #000000;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span4 {
+  color: #000000;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span5 {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span6 {
+  color: #000000;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span7 {
+  color: #000000;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.want-to-join-the-team-follow-these-steps-using-the-left-navigation-sign-in-or-create-an-account-sign-up-on-imleagues-sign-in-with-your-umd-sso-navigate-to-club-sports-select-join-team-next-to-men-s-rugby-complete-your-personal-form-concussion-quiz-and-sign-the-participation-form-pay-your-dues-through-paypal-dues-are-120-confirm-your-signup-and-wait-for-approval-check-your-status-span8 {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  background: var(--umd-red, #e21833);
+  width: 236.54px;
+  height: 719.14px;
+  position: absolute;
+  left: 0px;
+  top: 304.86px;
+}
+.how-to-register {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 8.32px;
+  top: 190px;
+  width: 220.46px;
+  height: 309.23px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-1 {
+  color: #fffefe;
+  text-align: left;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 73px;
+  top: 384px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-3 {
+  color: #fffefe;
+  text-align: left;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 73px;
+  top: 608px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-4 {
+  color: #fffefe;
+  text-align: left;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 69px;
+  top: 729px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-5 {
+  color: #fffefe;
+  text-align: left;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 69px;
+  top: 844px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-2 {
+  color: #fffefe;
+  text-align: left;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 69px;
+  top: 492px;
+  width: 140px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sign-in {
+  color: #000000;
+  text-align: center;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 35px;
+  top: 414px;
+  width: 155px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.check-status {
+  color: #000000;
+  text-align: center;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 14px;
+  top: 893px;
+  width: 191px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.get-approved {
+  color: #000000;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 767px;
+  width: 181px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pay {
+  color: #000000;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 35px;
+  top: 654px;
+  width: 155px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imleagu-es {
+  color: #000000;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 35px;
+  top: 535px;
+  width: 155px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

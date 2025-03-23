@@ -1,0 +1,239 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 1293px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.registration {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 630px;
+  top: 88px;
+}
+.merchandise {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 868px;
+  top: 88px;
+}
+.schedule {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 1103px;
+  top: 88px;
+}
+.rectangle-3 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 36px;
+}
+.rectangle-4 {
+  background: #e21833;
+  opacity: 0.5;
+  width: 183px;
+  height: 37px;
+  position: absolute;
+  left: 1241px;
+  top: 73px;
+}
+.welcome-guest {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 47px;
+  width: 187px;
+  height: 37px;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1273px;
+  top: 77px;
+  width: 187px;
+  height: 37px;
+}
+.images-1 {
+  width: 220px;
+  height: 217px;
+  position: absolute;
+  left: 0px;
+  top: 9px;
+  object-fit: cover;
+  aspect-ratio: 220/217;
+}
+.image-2 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 44px;
+  top: 226px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 120px;
+  top: 226px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.umd-club-rugby-membership-home {
+  color: var(--background-white, #ffffff);
+  text-align: left;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 73px;
+  width: 527px;
+  height: 178px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  background: var(--umd-red, #e21833);
+  width: 250px;
+  height: 100px;
+  position: absolute;
+  left: 569px;
+  top: 971px;
+}
+.buy-merch {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --buttons-links-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--buttons-links-font-size, 36px);
+  font-weight: var(--buttons-links-font-weight, 400);
+  position: absolute;
+  left: 577px;
+  top: 999px;
+  width: 233px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blackhoodieback-1 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 1116px;
+  top: 605px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rugbyredback-1 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 384px;
+  top: 605px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.front-1 {
+  width: 284px;
+  height: 284px;
+  position: absolute;
+  left: 764px;
+  top: 605px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rugbyred-1 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 84px;
+  top: 605px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.welcome-to-the-merchandise-page {
+  color: #000000;
+  text-align: center;
+  font-family: var(
+    --h1-page-title-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h1-page-title-font-size, 48px);
+  font-weight: var(--h1-page-title-font-weight, 400);
+  position: absolute;
+  left: 212px;
+  top: 252px;
+  width: 943px;
+  height: 212px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.click-the-link-below-to-be-redirected-to-the-official-umd-club-rugby-merchandise-website {
+  color: #000000;
+  text-align: center;
+  font-family: var(
+    --h2-section-headers-font-family,
+    "BebasNeue-Regular",
+    sans-serif
+  );
+  font-size: var(--h2-section-headers-font-size, 36px);
+  font-weight: var(--h2-section-headers-font-weight, 400);
+  position: absolute;
+  left: 329px;
+  top: 433px;
+  width: 782px;
+  height: 111px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
