@@ -2,6 +2,10 @@
 .registration-member * {
   box-sizing: border-box;
 }
+.navbar, .navbar .nav-link, .navbar .navbar-brand, .navbar span, .navbar a.btn {
+  font-size: 1rem !important;
+  font-family: Arial, sans-serif !important;
+}
 .registration-member {
   background: #ffffff;
   height: 1024px;
